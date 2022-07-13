@@ -1,1 +1,3 @@
 # NYC Taxi Duration Prediction
+
+The goal of this project is to ..........
